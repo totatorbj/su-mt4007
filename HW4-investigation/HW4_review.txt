@@ -1,0 +1,18 @@
+### Review of Homework 4
+
+##### Has the person answered all the questions?
+
+- Joining Data: The first table is created, as is the second. The plot is done, with a reasonable interpretation of the task.
+
+- SQL: All questions are answered.
+
+- Regex: The first question has a pattern, which seems reasonable, but there is no re.findall() call using it.<br><br>
+  The second question is answered. The third, optional, question is unanswered.
+
+##### Is there something you really like about the report?
+
+All tasks are efficiently solved, with well structured code and enough comments.
+
+##### Is anything unclear?
+
+No.
